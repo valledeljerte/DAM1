@@ -16,6 +16,7 @@ public class EntornosDeDesarrollo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println( " Para probar el entorno de desarrollo "); 
     }
     
 }
